@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Arpit Sengar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate student software developer from India</h3>
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitsengar99" alt="arpitsengar99" /></a> </p>
