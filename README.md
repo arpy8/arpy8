@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arpitwastaken" target="blank"><img src="https://img.shields.io/twitter/follow/arpitwastaken?logo=twitter&style=for-the-badge" alt="arpitwastaken" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on my **Machine Learning Skills**
 
 - 🌱 I’m currently learning **DSA in Java**
 
