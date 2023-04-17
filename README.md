@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/arpit-sengar-924669235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-sengar-924669235" height="30" width="40" /></a>
 <a href="https://kaggle.com/arpitsengar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpitsengar" height="30" width="40" /></a>
 <a href="https://instagram.com/4rpi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4rpi8" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arpitsengar99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpitsengar99" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arpy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpy8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpy8&show_icons=true&locale=en" alt="arpy8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpy8&" alt="arpy8" /></p>
-
