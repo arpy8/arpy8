@@ -1,20 +1,20 @@
-![Header](./banner.png)
+**![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Arpit Sengar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate CS student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpy8" alt="arpy8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpy8&theme=onedark" alt="arpy8" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arpitwastaken" target="blank"><img src="https://img.shields.io/twitter/follow/arpitwastaken?logo=twitter&style=for-the-badge" alt="arpitwastaken" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning skills**
 
-- 🌱 I’m currently learning **DSA in Java**
+- 🌱 I’m currently learning **DSA in C++**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Web Automation/Scraping, Data Analysis and Visualization**
 
 - 📫 How to reach me **arpitsengar99@gmail.com**
 
-- ⚡ Fun fact **I love exploring.**
+- ⚡ Fun fact **I love exploring different domains.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
