@@ -31,10 +31,11 @@
 
 <p><img align="left" src="https://readmestats.999857.xyz/api/top-langs?username=arpy8&show_icons=true&locale=en&layout=compact" alt="arpy8" /></p>
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en" alt="arpy8" /></p>
+<p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en" alt="arpy8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpy8&" alt="arpy8" /></p>
 
+<br>
 <a href="https://holopin.io/@arpitwastaken">
     <img src="https://holopin.me/arpitwastaken">
   </a>
