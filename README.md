@@ -37,6 +37,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpy8&" alt="arpy8" /></p>
 
 <br>
+
+![hackerrank-badges](hackerrank_badges.png)
+
+<br>
+
 <a href="https://holopin.io/@arpitwastaken">
     <img src="https://holopin.me/arpitwastaken">
   </a>
+  
+  
