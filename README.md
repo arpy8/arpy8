@@ -1,4 +1,4 @@
-**![Header](./banner.png)
+![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Arpit Sengar</h1>
 <h3 align="center">A passionate CS student from India</h3>
 
