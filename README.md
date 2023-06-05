@@ -41,13 +41,16 @@
 
 <br>
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8)
+![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8)
+
+
+<a href="https://www.hackerrank.com/arpy8?hr_r=1">
+    <img src="assets/hackerrank.png">
+</a>
+
+<br>
+<br>
 
 <a href="https://holopin.io/@arpitwastaken">
     <img src="https://holopin.me/arpitwastaken">
 </a>
-
-<a href="https://www.hackerrank.com/arpy8?hr_r=1">
-    <img src="assets/hackerrank_badges.png">
-</a>
-  
