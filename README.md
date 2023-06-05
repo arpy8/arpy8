@@ -41,6 +41,10 @@
 
 <br>
 
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8)
+
+<br>
+
 <a href="https://www.hackerrank.com/arpy8?hr_r=1">
     <img src="assets/hackerrank_badges.png">
 </a>
