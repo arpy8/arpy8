@@ -52,13 +52,11 @@
 <br> 
 <p><img align="center" src="assets/eyepop.png" alt="eyepop" height="150"/></p>
 
-
 [//]: # (<p><img align="center" src="https://i.kym-cdn.com/photos/images/newsfeed/002/383/318/a24.gif" alt="william" height="280"/></p>)
 
 <br>
 
 ![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8)
-
 
 <a href="https://www.hackerrank.com/arpy8?hr_r=1">
     <img src="assets/hackerrank.png">
