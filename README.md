@@ -1,4 +1,5 @@
-![Header](assets/banner.gif)
+<img align="center" src="assets/banner.gif" alt="banner">
+
 <h1 align="center">Hi 👋, I'm Arpit Sengar</h1>
 <h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
 
