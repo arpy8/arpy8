@@ -1,14 +1,21 @@
-<img align="center" src="assets/banner.gif" alt="banner">
+[//]: # (<img align="center" src="assets/banner.gif" alt="banner">)
+<table>
+    <tr>
+        <th>
+            <img align="center" src="assets/banner.gif" alt="banner">
+        </th>
+        <th>        
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+        </th>        
+    </tr>
+</table>
 
 <h1 align="center">Hi 👋, I'm Arpit Sengar</h1>
 <h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpy8&label=Profile%20views&color=0e75b6&style=flat" alt="arpy8" /> </p>
-
-<p align="left"> <a href="https://twitter.com/arpitwastaken" target="blank"><img src="https://img.shields.io/twitter/follow/arpitwastaken?logo=twitter&style=for-the-badge" alt="arpitwastaken" /></a> (not really active here) </p>
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
 
 
 - 🔭 I’m currently working on **Machine Learning skills**
