@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Arpit Sengar</h1>
 <h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpy8&label=Profile%20views&color=0e75b6&style=flat" alt="arpy8" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
@@ -54,7 +53,7 @@
             <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="arpy8"/></p>
         </th>
         <th>
-            <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arpy8&theme=dark" alt="arpy8" style="padding-right:30px"/></p>
+            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpy8&theme=dark" alt="arpy8" style="padding-right:30px"/></p>
         </th>
     </tr>
 </table>
