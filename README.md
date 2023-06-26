@@ -6,10 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpy8&label=Profile%20views&color=0e75b6&style=flat" alt="arpy8" /> </p>
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
+
 <table style="width:100%">
     <tr>
         <th align="left">
-                <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
                 <ul>
                     <li> 🔭 I’m currently working on **Machine Learning skills** </li>
                     <li> 🌱 I’m currently learning **DSA in C++** </li>
