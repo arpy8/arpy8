@@ -12,11 +12,11 @@
     <tr>
         <th align="left">
                 <ul>
-                    <li> 🔭 I’m currently working on **Machine Learning skills** </li>
-                    <li> 🌱 I’m currently learning **DSA in C++** </li>
-                    <li> 💬 Ask me about **Web Automation/Scraping, Data Analysis and Visualization** </li>
-                    <li> 📫 How to reach me **arpitsengar99@gmail.com** </li>
-                    <li> ⚡ Fun fact **I love exploring different domains.** </li>
+                    <li> 🔭 I’m currently working on <b>training Machine Learning models</b> </li>
+                    <li> 🌱 I’m currently learning <b>DSA in C++</b> </li>
+                    <li> 💬 Ask me about <b>Web Automation, Data Analysis and Visualization</b> </li>
+                    <li> 📫 How to reach me <b>arpitsengar99@gmail.com</b> </li>
+                    <li> ⚡ Fun fact **I love exploring different domains.</b> </li>
                 </ul>
                 <h3 align="left">Connect with me:</h3>
                     <p align="left">
