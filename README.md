@@ -48,15 +48,25 @@
     </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpy8&hide_progress=true&theme=dark" alt="arpy8" width=400 /></p> 
-<p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="arpy8"/></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arpy8&theme=dark" alt="arpy8" style="padding-right:30px"/></p>
-<br> 
-<p><img align="center" src="assets/eyepop.png" alt="eyepop" height="150"/></p>
+<table>
+    <tr>
+        <th>
+            <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="arpy8"/></p>
+        </th>
+        <th>
+            <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arpy8&theme=dark" alt="arpy8" style="padding-right:30px"/></p>
+        </th>
+    </tr>
+</table>
 
-<br>
+[//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpy8&hide_progress=true&theme=dark" alt="arpy8" width=400 /></p> )
+
+[//]: # (<br> )
+
+[//]: # (<p><img align="center" src="assets/eyepop.png" alt="eyepop" height="150"/></p>)
 
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+
 ![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8)
 
 <a href="https://www.hackerrank.com/arpy8?hr_r=1">
