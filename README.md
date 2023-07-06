@@ -1,6 +1,6 @@
 <img align="center" src="assets/banner.gif" alt="banner">
 
-<h1 align="center">Hi 👋, I'm Arpit Sengar</h1>
+<h1 align="center">Hi 👋, I'm Arpit</h1>
 <h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpy8&label=Profile%20views&color=0e75b6&style=flat" alt="arpy8" /> </p>
