@@ -68,9 +68,9 @@
 
 ![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8)
 
-<a href="https://www.hackerrank.com/arpy8?hr_r=1">
+<!-- <a href="https://www.hackerrank.com/arpy8?hr_r=1">
     <img src="assets/hackerrank.png">
-</a>
+</a> -->
 <br>
 <a href="https://holopin.io/@arpitwastaken">
     <img src="https://holopin.me/arpitwastaken">
