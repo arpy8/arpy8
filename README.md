@@ -75,7 +75,3 @@
 <a href="https://holopin.io/@arpitwastaken">
     <img src="https://holopin.me/arpitwastaken">
 </a>
-
-
-
-
