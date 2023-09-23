@@ -15,7 +15,6 @@
                     <li> 🌱 I’m currently learning <b>DSA in C++</b> </li>
                     <li> 💬 Ask me about <b>Web Automation, Data Analysis and Visualization</b> </li>
                     <li> 📫 How to reach me <b>arpitsengar99@gmail.com</b> </li>
-                    <li> ⚡ Fun fact **I love exploring different domains.</b> </li>
                 </ul>
                 <h3 align="left">Connect with me:</h3>
                     <p align="left">
@@ -40,7 +39,7 @@
                         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
                     </p>
         </th>
-        <th align="right">        
+        <th align="center">        
             <img src="https://spotify-github-profile.vercel.app/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=4eb16f&bar_color_cover=true">
         </th>        
     </tr>
