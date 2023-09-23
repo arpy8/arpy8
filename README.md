@@ -10,11 +10,13 @@
 <table style="width:100%">
     <tr>
         <th align="left">
+                <img src="assets/banner2.gif" alt="banner" height="160rem"><br>
+                Currently pursuing a degree in computer science with specialization in AI ML
                 <ul>
-                    <li> 🔭 I’m currently working on <b>training Machine Learning models</b> </li>
-                    <li> 🌱 I’m currently learning <b>DSA in C++</b> </li>
-                    <li> 💬 Ask me about <b>Web Automation, Data Analysis and Visualization</b> </li>
-                    <li> 📫 How to reach me <b>arpitsengar99@gmail.com</b> </li>
+                    <li> Working on <b>training Machine Learning models </li>
+                    <li> Learning <b>DSA in C++</b> </li>
+                    <li> Ask me about <b>Web Automation, Data Analysis and Visualization</b> </li>
+                    <li> How to reach me <b>arpitsengar99@gmail.com</b> </li>
                 </ul>
                 <h3 align="left">Connect with me:</h3>
                     <p align="left">
