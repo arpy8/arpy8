@@ -1,4 +1,4 @@
-<img align="center" src="assets/banner.gif" alt="banner">
+<img align="center" src="https://media.giphy.com/media/1f6cXlvqMQbirrlYVU/giphy.gif" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Arpit</h1>
 <h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
@@ -10,7 +10,7 @@
 <table style="width:100%">
     <tr>
         <th align="left">
-                <img src="assets/banner2.gif" alt="banner" height="160rem"><br>
+                <img src="https://media.giphy.com/media/SWf7sSSNWRGha5N4HK/giphy.gif" alt="banner" height="160rem"><br>
                 Currently pursuing a degree in computer science with specialization in AI ML
                 <ul>
                     <li> Working on <b>training Machine Learning models </li>
