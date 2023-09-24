@@ -53,7 +53,7 @@
             <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="arpy8"/></p>
         </th>
         <th>
-            <p><img align="center" src="https://streak-stats.demolab.com/?user=arpy8&theme=gotham" alt="arpy8" /></p>
+            <p><img align="center" src="https://streak-stats.demolab.com/?user=arpy8&theme=gotham" alt="arpy8" style="padding-right:30px"/></p>
         </th>
     </tr>
 </table>
