@@ -1,15 +1,15 @@
 <img align="center" src="assets/banner.gif" alt="banner">
 
-<h1 align="center">Hi 👋, I'm Arpit</h1>
-<h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpy8&label=Profile%20views&color=0e75b6&style=flat" alt="arpy8" /> </p>
+[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpy8&label=Profile%20views&color=0e75b6&style=flat" alt="arpy8" /> </p>)
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
 
 <table style="width:100%">
     <tr>
         <th align="left">
+                <h1 align="center">Hi 👋, I'm Arpit</h1>
+                <h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
+                <br>
                 <ul>
                     <li> 🔭 I’m currently working on <b>training Machine Learning models</b> </li>
                     <li> 🌱 I’m currently learning <b>DSA in C++</b> </li>
