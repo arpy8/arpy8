@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/1f6cXlvqMQbirrlYVU/giphy.gif" alt="banner">
+<img align="center" src="assets/banner.gif" alt="banner">
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpy8&label=Profile%20views&color=0e75b6&style=flat" alt="arpy8" /> </p>)
 
@@ -10,13 +10,10 @@
                 <h1 align="center">Hi 👋, I'm Arpit</h1>
                 <h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
                 <br>
-                <img src="https://media.giphy.com/media/SWf7sSSNWRGha5N4HK/giphy.gif" alt="banner" height="160rem"><br>
-                Currently pursuing a degree in computer science with specialization in AI ML
                 <ul>
-                    <li> Working on <b>training Machine Learning models </li>
-                    <li> Learning <b>DSA in C++</b> </li>
-                    <li> Ask me about <b>Web Automation, Data Analysis and Visualization</b> </li>
-                    <li> How to reach me <b>arpitsengar99@gmail.com</b> </li>
+                    <li> 🌱 I’m currently learning <b>DSA in C++</b> </li>
+                    <li> 💬 Ask me about <b>Python</b> </li>
+                    <li> 📫 How to reach me <b>arpitsengar99@gmail.com</b> </li>
                 </ul>
                 <h3 align="left">Connect with me:</h3>
                     <p align="left">
@@ -28,20 +25,21 @@
                         <a href="https://instagram.com/4rpi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4rpi8" height="30" width="40" /></a>
                     </p>
                 <h3 align="left">Languages and Tools:</h3>
-                    <p align="left"> 
-                        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+                    <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
                         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-                        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+                        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
                         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+                        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+                        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
                         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
                         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-                        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
                         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-                        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+                        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+                        <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
                         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
                     </p>
         </th>
-        <th align="center">        
+        <th align="right">        
             <img src="https://spotify-github-profile.vercel.app/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=4eb16f&bar_color_cover=true">
         </th>        
     </tr>
@@ -53,7 +51,7 @@
             <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="arpy8"/></p>
         </th>
         <th>
-            <p><img align="center" src="https://streak-stats.demolab.com/?user=arpy8&theme=gotham" alt="arpy8" style="padding-right:30px"/></p>
+            <p><img align="center" src="https://streak-stats.demolab.com/?user=arpy8&theme=gotham" alt="arpy8" /></p>
         </th>
     </tr>
 </table>
