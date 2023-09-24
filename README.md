@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
 
-<img align="center" style="margin-left: auto; margin-right: auto; display: block;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=28&duration=2500&pause=1199&color=79FE96&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arpit;Welcome+to+my+profile;Pursuing+a+degree+in+CS;Always+learning+new+stuff" alt="typing">
+[//]: # (<img align="center" style="margin-left: auto; margin-right: auto; display: block;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=28&duration=2500&pause=1199&color=79FE96&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arpit;Welcome+to+my+profile;Pursuing+a+degree+in+CS;Always+learning+new+stuff" alt="typing">)
 
 <table style="width:100%">
     <tr>
