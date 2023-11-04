@@ -11,9 +11,8 @@
                 <h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
                 <ul>
                     <li>Passionate about creative pursuits</li>
-                    <li>Can't tell you about my side project</li>
                     <li>Really passionate about ML and Computer Vision</li>
-                    <li>How to reach me: arpitsengar99@gmail.com</li>
+                    <li>Mail me at: arpitsengar99@gmail.com</li>
                 </ul>                
                 <h3 align="left">Connect with me:</h3>
                     <p align="left">
@@ -67,7 +66,9 @@
 
 ![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8)
 
-<!-- <a href="https://www.hackerrank.com/arpy8?hr_r=1">
+<!-- <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Metrics](https://metrics.lecoq.io/arpy8?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+<a href="https://www.hackerrank.com/arpy8?hr_r=1">
     <img src="assets/hackerrank.png">
 </a> -->
 <br>
