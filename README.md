@@ -55,6 +55,8 @@
     </tr>
 </table>
 
+![snake](https://github.com/arpy8/arpy8/blob/output/github-contribution-grid-snake.gif)
+
 [//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpy8&hide_progress=true&theme=dark" alt="arpy8" width=400 /></p> )
 
 [//]: # (<br> )
