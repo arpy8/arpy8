@@ -2,9 +2,9 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
 
-<table style="width:500px">
+<table>
     <tr>
-        <th width="70%" align="center">
+        <th width="1000px" align="center">
             <h1 align="center">Hi 👋, I'm Arpit</h1>
             <h4 align="center">Currently pursuing a degree in CS with spec. in AI ML</h4>
             <h3>Connect with me:</h3>
@@ -45,7 +45,7 @@
                 <br>
             </p>
         </th>
-        <th width="1000px">        
+        <th width="500px">        
             <img src="https://spotify-github-profile.vercel.app/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=4eb16f&bar_color_cover=true">
         </th>
     </tr>
