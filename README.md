@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
 
-<table style="width:1500px">
+<table style="width:500px">
     <tr>
         <th width="70%" align="center">
             <h1 align="center">Hi 👋, I'm Arpit</h1>
