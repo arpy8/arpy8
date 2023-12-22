@@ -16,7 +16,6 @@
                     <li>cannot function without a good cup of tea in the morning.</li> 
                     <li>enjoy sketching, beatboxing and being creative.</li>
                 </ul>
-                and that's me in a nutshell.
             </p>
             <h3>Connect with me:</h3>
             <p>
