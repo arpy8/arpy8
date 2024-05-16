@@ -89,4 +89,4 @@
     <img src="https://holopin.me/arpitwastaken">
 </a>
 
-<center><img src="https://github.com/arpy8/arpy8/assets/74809468/42d9991e-f34e-461c-8c5b-184ccf5f4ecd" width="50%"></center>
+<center><img src="https://github.com/arpy8/arpy8/assets/74809468/293e2a75-4777-4cd7-bcf4-c2765789cfa8" width="25%"></center>
