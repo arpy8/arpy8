@@ -36,73 +36,66 @@ def spotify_banner() -> Response:
         >
         <title id="titleId">Arpit's Spotify Stats</title>
         <desc id="descId">
-            Total Stars Earned: 49, Total Commits (2024): 1127, Total PRs: 56, Total
-            Issues: 20, Contributed to (last year): 37
+            Total Scrobbles till now: {{ scrobbles }}
         </desc>
         <style>
-            @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&amp;display=swap');
-            * {
-                font-family: "Pixelify Sans", sans-serif !important;
-                font-optical-sizing: auto !important;
-                font-style: normal !important;
-            }
-            .header {
-            fill: #fff;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-            }
-            @supports (-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .header {
-                font-size: 15.5px;
-            }
-            }
+        * {
+        font: 18,'Segoe UI', Ubuntu, Sans-Serif;
+        }
+        .header {
+        fill: #fff;
+        font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+        animation: fadeInAnimation 0.8s ease-in-out forwards;
+        }
+        @supports (-moz-appearance: auto) {
+        /* Selector detects Firefox */
+        .header {
+            font-size: 15.5px;
+        }
+        }
 
-            .stat {
-            fill: #9f9f9f;
-            }
-            @supports (-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .stat {
-                font-size: 12px;
-            }
-            }
-            .stagger {
+        .stat {
+        font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9f9f9f;
+        fill: #9f9f9f;
+        }
+        @supports (-moz-appearance: auto) {
+        /* Selector detects Firefox */
+        .stat {
+            font-size: 12px;
+        }
+        }
+        .stagger {
+        opacity: 0;
+        animation: fadeInAnimation 0.3s ease-in-out forwards;
+        }
+    
+        .not_bold {
+        font-weight: 400;
+        }
+        .bold {
+        font-weight: 700;
+        }
+        .icon {
+        fill: #79ff97;
+        display: block;
+        }
+
+        @keyframes scaleInAnimation {
+        from {
+            transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+            transform: translate(-5px, 5px) scale(1);
+        }
+        }
+        @keyframes fadeInAnimation {
+        from {
             opacity: 0;
-            animation: fadeInAnimation 0.3s ease-in-out forwards;
-            }
-            .rank-text {
-            font: 800 24px "Segoe UI", Ubuntu, Sans-Serif;
-            fill: #9f9f9f;
-            animation: scaleInAnimation 0.3s ease-in-out forwards;
-            }
-
-            .not_bold {
-            font-weight: 400;
-            }
-            .bold {
-            font-weight: 700;
-            }
-            .icon {
-            fill: #79ff97;
-            display: block;
-            }
-
-            @keyframes scaleInAnimation {
-            from {
-                transform: translate(-5px, 5px) scale(0);
-            }
-            to {
-                transform: translate(-5px, 5px) scale(1);
-            }
-            }
-            @keyframes fadeInAnimation {
-            from {
-                opacity: 0;
-            }
-            to {
-                opacity: 1;
-            }
-            }
+        }
+        to {
+            opacity: 1;
+        }
+        }
         </style>
 
         <rect
@@ -150,7 +143,7 @@ def spotify_banner() -> Response:
                 <text class="stat bold" x="25" y="12.5">Total Scrobbles:</text>
                 <text class="stat bold" x="219.01" y="12.5" data-testid="stars">
                     {{ scrobbles }}
-                </text> 
+                </text>
                 </g>
             </g>
             </svg>
