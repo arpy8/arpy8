@@ -1,7 +1,5 @@
 <img align="center" src="assets/banner.gif" alt="banner">
-
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
-
 <table>
     <tr>
         <th width="1000px" align="center">
@@ -36,7 +34,6 @@
                 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35">
                 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35" height="35">
                 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="35" height="35">
-<!--                 <br> -->
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35">
@@ -45,7 +42,6 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35">
                 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35">
-<!--                 <br> -->
                 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="35" height="35">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="35" height="35">
@@ -53,7 +49,6 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"> 
                 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35">
-<!--                 <br> -->
             </p>
         </th>
         <th width="800px">        
@@ -61,7 +56,6 @@
         </th>
     </tr>
 </table>
-
 <table>
     <tr>
         <th>
@@ -72,21 +66,14 @@
         </th>
     </tr>
 </table>
-
 <br>
-
 <center>
     <img align="center" alt="snek" src="https://github.com/arpy8/arpy8/blob/output/github-contribution-grid-snake-dark.svg" />
 </center>
-
 <img src="profile-3d-contrib/profile-night-green.svg" alt="contribution-graph-3d" width="100%">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
-
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8" alt="activity-graph" width="100%">
-
 <a href="https://holopin.io/@arpitwastaken">
     <img src="https://holopin.me/arpitwastaken">
 </a>
-
 <center><img src="https://github.com/arpy8/arpy8/assets/74809468/293e2a75-4777-4cd7-bcf4-c2765789cfa8" width="25%"></center>
