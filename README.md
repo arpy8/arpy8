@@ -52,8 +52,8 @@
             </p>
         </th>
         <th width="800px">
-            <img src="https://github.com/arpy8/arpy8/assets/74809468/5e2eb800-c714-4ded-9e77-9e4d9d197615">
-<!--             <img src="https://spotify-github-profile.vercel.app/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=4eb16f&bar_color_cover=true"> -->
+<!--             <img src="https://github.com/arpy8/arpy8/assets/74809468/5e2eb800-c714-4ded-9e77-9e4d9d197615"> -->
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=4eb16f&bar_color_cover=true">
             <a href="https://www.last.fm/user/arpy8">
                 <img src="https://dynamic-readme-api.vercel.app/spotify_banner" alt="spotify scrobbles banner">
             </a>
