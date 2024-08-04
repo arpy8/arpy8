@@ -8,7 +8,7 @@
             <p>
                 I -
                 <ul align="left">
-                    <li>am a second year btech sophomore studying cse with spec in aiml.</li> 
+                    <li>am a third year btech student studying cse with spec in aiml.</li> 
                     <li>often spend time studying core concepts of CS.</li>
                     <li>try to expand my skill tree as much as I can.</li>
                     <li>cannot function without a good cup of tea in the morning.</li> 
