@@ -80,7 +80,7 @@
 <img src="profile-3d-contrib/profile-night-green.svg" alt="contribution-graph-3d" width="100%">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8" alt="activity-graph" width="100%">
-<a href="https://holopin.io/@arpitwastaken">
-    <img src="https://holopin.me/arpitwastaken">
-</a>
+
+[![An image of @arpitwastaken's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpitwastaken)](https://holopin.io/@arpitwastaken)
+
 <center><img src="https://github.com/arpy8/arpy8/assets/74809468/293e2a75-4777-4cd7-bcf4-c2765789cfa8" width="25%"></center>    
