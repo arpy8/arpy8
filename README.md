@@ -54,7 +54,7 @@
         <th width="800px">
 <!--             <img src="https://github.com/arpy8/arpy8/assets/74809468/5e2eb800-c714-4ded-9e77-9e4d9d197615"> -->
 <!--             <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=314en4ia7eeyco74hvxp6254hmam&redirect=true"> -->
-            <a href="https://www.last.fm/user/arpy8" target="_blank">
+            <a href="https://github.com/arpy8/PastFm" target="_blank">
                 <img src="https://arpy8-pastfm-backend.hf.space/live">
 <!--                 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"> -->
             </a>
