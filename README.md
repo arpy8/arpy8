@@ -86,9 +86,11 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript"/></a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/></a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/44ca0ff0-761e-481a-ab08-ab110f222ddb" width="40" height="40" alt="nextjs"/></a>
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="reactnative"/></a>
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/44ca0ff0-761e-481a-ab08-ab110f222ddb" width="40" height="40" alt="nextjs"/></a>
+      <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/347c1099-7c43-401c-b9dc-8e6538f89703" width="40" height="40" alt="tailwind"/></a>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/399c0abd-67d6-4bf8-9152-6de6c5a63c2d" width="40" height="40" alt="tailwind"/></a>
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e887b920-aba8-4107-b4ef-dbeae291256b" width="40" height="40" alt="bs"/></a>
     </td>
   </tr>
   <tr>
