@@ -58,9 +58,9 @@
                 <img src="https://arpy8-pastfm-backend.hf.space/live">
 <!--                 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"> -->
             </a>
-            <a href="https://www.last.fm/user/arpy8">
+<!--             <a href="https://www.last.fm/user/arpy8">
                 <img src="https://dynamic-readme-api.vercel.app/spotify_banner" alt="spotify scrobbles banner">
-            </a>
+            </a> -->
         </th>
     </tr>
 </table>
