@@ -96,9 +96,10 @@
   <tr>
     <td><strong>Backend & APIs</strong></td>
     <td>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/></a>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8b65e0d4-80f4-4367-a0f6-20bb0e417167" width="40" height="40" alt="nodejs"/></a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express"/></a>
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="./assets/flask-icon.png" width="40" height="40" alt="flask"/></a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/3cacda28-397b-4361-a50c-e3cb8f2644e7" width="40" height="40" alt="fastapi"/></a>
       <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d59b7574-204e-4267-923a-e1b20fb623f0" width="40" height="40" alt="postman"/></a>
     </td>
   </tr>
@@ -116,9 +117,9 @@
     <td><strong>Programming Languages</strong></td>
     <td>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/></a>
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus"/></a>
       <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java"/></a>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="c"/></a>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus"/></a>
     </td>
   </tr>
   <tr>
@@ -134,7 +135,7 @@
     <td><strong>DevOps & Tools</strong></td>
     <td>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/></a>
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="aws"/></a>
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/93c4f777-986e-4fb4-b93f-76fed8a28542" width="40" height="40" alt="aws"/></a>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/></a>
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/></a>
     </td>
@@ -146,6 +147,7 @@
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b3393ef0-5d8e-4704-9112-759aeadf8793" width="40" height="40" alt="photoshop"/></a>
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"/></a>
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" alt="blender"/></a>
+      <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://freelogopng.com/images/all_img/1656734719canva-logo-transparent.png" width="40" height="40" alt="canva"/></a>
     </td>
   </tr>
   <tr>
