@@ -6,24 +6,22 @@
             <h1 align="center">Hi 👋, I'm Arpit</h1>
             <h3 align="center">an average cs student figuring out stuff</h3>
             <p>
-                I -
                 <ul align="left">
-                    <li>am a third year btech student studying cse with spec in aiml.</li> 
-                    <li>often spend time studying core concepts of CS.</li>
-                    <li>try to expand my skill tree as much as I can.</li>
-                    <li>cannot function without a good cup of tea in the morning.</li> 
-                    <li>enjoy sketching, beatboxing and being creative.</li>
+                    <li>3rd year btech student studying cse with spec in aiml</li> 
+                    <li>often spend time studying core concepts of CS</li>
+                    <li>trying to expand my skill tree as much as I can</li>
+                    <li>enjoy sketching, beatboxing and being creative</li>
                 </ul>
             </p>
             <h3>Connect with me:</h3>
             <p>
-                <a href="mailto:arpitsengar99@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="4rpi8" height="35" width="35" /></a>
-                <a href="https://linkedin.com/in/arpitsengar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-sengar-924669235" height="35" width="35" /></a>
-                <a href="https://www.hackerrank.com/arpy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpy8" height="35" width="35" /></a>
-                <a href="https://kaggle.com/arpitsengar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpitsengar" height="35" width="35" /></a>
-                <a href="https://dev.to/arpy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arpy8" height="35" width="35" /></a>
-                <a href="https://twitter.com/arpitwastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitwastaken" height="35" width="35" /></a>
-                <a href="https://instagram.com/4rpi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4rpi8" height="35" width="35" /></a>
+                <a href="mailto:arpitsengar99@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="4rpi8" width="35" /></a>
+                <a href="https://linkedin.com/in/arpitsengar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-sengar-924669235" width="35" /></a>
+                <a href="https://www.hackerrank.com/arpy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpy8" width="35" /></a>
+                <a href="https://kaggle.com/arpitsengar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpitsengar" width="35" /></a>
+                <a href="https://dev.to/arpy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arpy8" width="35" /></a>
+                <a href="https://twitter.com/arpitwastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitwastaken" width="35" /></a>
+                <a href="https://instagram.com/4rpi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4rpi8" width="35" /></a>
             </p>
 <!--             <h3>Languages and Tools:</h3>
             <p style="text-decoration: none; text-decoration-line: none;"> 
