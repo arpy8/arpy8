@@ -7,10 +7,10 @@
             <h3 align="center">an average cs student figuring out stuff</h3>
             <p>
                 <ul align="left">
-                    <li>3rd year btech student studying cse with spec in aiml</li> 
+                    <li>4th year B.Tech student studying CSE with Spec in AIML</li> 
                     <li>often spend time studying core concepts of CS</li>
                     <li>trying to expand my skill tree as much as I can</li>
-                    <li>enjoy sketching, beatboxing and being creative</li>
+                    <li>enjoy sketchingX, beatboxing and being creative</li>
                 </ul>
             </p>
             <h3>Connect with me:</h3>
