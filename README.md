@@ -180,11 +180,11 @@
     <tr>
         <td style="width:50%; vertical-align: top; padding: 0;">
             <img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph" style="width:100%; display: block;">
-            <img width="441" height="1">
+            <img width="180" height="1">
         </td>
         <td style="width:50%; vertical-align: top; padding: 0;">
             <img src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="activity-graph" style="width:100%; display: block;">
-            <img width="441" height="1">
+            <img width="180" height="1">
         </td>
     </tr>
 </table>
