@@ -173,17 +173,25 @@
     </tr>
 </table>
  -->
-<table>
+<table style="width:100%; border-collapse: collapse;">
     <tr>
-        <th width="30%">
-            <p><img align="center" src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="arpy8" width="100%" /></p>
-        </th>
-        <th width="40%">
-            <p><img align="center" src="profile-3d-contrib/profile-night-green.svg" alt="arpy8" width="100%" /></p>
-        </th>
-        <th width="30%">
-            <p><img align="center" src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="arpy8" width="100%" /></p>
-        </th>
+        <td style="width:50%; vertical-align: top; padding: 0;">
+            <img src="profile-3d-contrib/profile-night-green.svg" alt="activity-graph" style="width:100%; display: block;">
+        </td>
+        <td style="width:50%; padding: 0;">
+            <table style="width:100%; border-collapse: collapse;">
+                <tr>
+                    <td style="padding: 0;">
+                        <img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph" style="width:100%; display: block;">
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding: 0;">
+                        <img src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="activity-graph" style="width:100%; display: block;">
+                    </td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 
