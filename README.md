@@ -166,11 +166,24 @@
 </center>
 <!-- /snake gif -->
 
-<img src="profile-3d-contrib/profile-night-green.svg" alt="contribution-graph-3d" width="100%">
+<!-- <table>
+    <tr>
+        <th><img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph"></th>
+        <th><img src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="activity-graph"></th>
+    </tr>
+</table>
+ -->
 <table>
     <tr>
-        <td><img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph" width="100%"></td>
-        <td><img src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="activity-graph" width="100%"></td>
+        <th width="30%">
+            <p><img align="center" src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="arpy8" width="100%" /></p>
+        </th>
+        <th width="40%">
+            <p><img align="center" src="profile-3d-contrib/profile-night-green.svg" alt="arpy8" width="100%" /></p>
+        </th>
+        <th width="30%">
+            <p><img align="center" src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="arpy8" width="100%" /></p>
+        </th>
     </tr>
 </table>
 
