@@ -162,12 +162,18 @@
 <!-- snake gif -->
 <center>
     <img align="center" alt="snek" src="https://github.com/arpy8/arpy8/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 </center>
 <!-- /snake gif -->
 
-<img src="profile-3d-contrib/profile-night-green.svg" alt="contribution-graph-3d" width="100%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8" alt="activity-graph" width="100%">
+
+<table>
+    <tr>
+        <td width="100%"><img src="profile-3d-contrib/profile-night-green.svg" alt="contribution-graph-3d" width="100%"></td>
+        <td width="100%"><img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph" width="100%"></td>
+        <td width="100%"><img src="https://wakatime.com/share/@arpy8/118af68b-750f-40b8-80ff-d0807cfb5010.svg" alt="activity-graph" width="100%"></td>
+    </tr>
+</table>
 
 [![An image of @arpitwastaken's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpitwastaken)](https://holopin.io/@arpitwastaken)
 
