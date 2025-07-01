@@ -166,12 +166,11 @@
 </center>
 <!-- /snake gif -->
 
-
+<img src="profile-3d-contrib/profile-night-green.svg" alt="contribution-graph-3d" width="100%">
 <table>
     <tr>
-        <td width="100%"><img src="profile-3d-contrib/profile-night-green.svg" alt="contribution-graph-3d" width="100%"></td>
-        <td width="100%"><img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph" width="100%"></td>
-        <td width="100%"><img src="https://wakatime.com/share/@arpy8/118af68b-750f-40b8-80ff-d0807cfb5010.svg" alt="activity-graph" width="100%"></td>
+        <td><img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph" width="100%"></td>
+        <td><img src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="activity-graph" width="100%"></td>
     </tr>
 </table>
 
