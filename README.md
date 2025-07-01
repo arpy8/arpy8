@@ -154,6 +154,7 @@
       <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40" height="40" alt="jekyll"/></a>
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="arduino"/></a>
       <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" alt="selenium"/></a>
+      <img width="1024" height="1">
     </td>
   </tr>
 </table>
@@ -173,24 +174,17 @@
     </tr>
 </table>
  -->
+ 
+<img src="profile-3d-contrib/profile-night-green.svg" alt="activity-graph" style="width:100%; display: block;">
 <table style="width:100%; border-collapse: collapse;">
     <tr>
         <td style="width:50%; vertical-align: top; padding: 0;">
-            <img src="profile-3d-contrib/profile-night-green.svg" alt="activity-graph" style="width:100%; display: block;">
+            <img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph" style="width:100%; display: block;">
+            <img width="441" height="1">
         </td>
-        <td style="width:50%; padding: 0;">
-            <table style="width:100%; border-collapse: collapse;">
-                <tr>
-                    <td style="padding: 0;">
-                        <img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph" style="width:100%; display: block;">
-                    </td>
-                </tr>
-                <tr>
-                    <td style="padding: 0;">
-                        <img src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="activity-graph" style="width:100%; display: block;">
-                    </td>
-                </tr>
-            </table>
+        <td style="width:50%; vertical-align: top; padding: 0;">
+            <img src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="activity-graph" style="width:100%; display: block;">
+            <img width="441" height="1">
         </td>
     </tr>
 </table>
