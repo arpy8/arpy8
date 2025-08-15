@@ -21,7 +21,7 @@
                 <a href="https://kaggle.com/arpitsengar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpitsengar" width="35" /></a>
                 <a href="https://dev.to/arpy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arpy8" width="35" /></a>
                 <a href="https://twitter.com/arpitwastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitwastaken" width="35" /></a>
-                <a href="https://instagram.com/4rpi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4rpi8" width="35" /></a>
+<!--                 <a href="https://instagram.com/4rpi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4rpi8" width="35" /></a> -->
             </p>
 <!--             <h3>Languages and Tools:</h3>
             <p style="text-decoration: none; text-decoration-line: none;"> 
