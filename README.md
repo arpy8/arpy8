@@ -1,5 +1,5 @@
 <img align="center" src="assets/banner.gif" alt="banner">
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
+<!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p> -->
 <table>
     <tr>
         <th width="1000px" align="center">
