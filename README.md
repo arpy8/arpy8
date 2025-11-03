@@ -189,6 +189,6 @@
     </tr>
 </table>
 
-[![An image of @arpitwastaken's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpitwastaken)](https://holopin.io/@arpitwastaken)
+[![](https://github.com/user-attachments/assets/4f4755ff-8527-42c0-b295-7d2c5536599a)](https://holopin.io/@arpitwastaken)
 
 <center><img src="https://github.com/arpy8/arpy8/assets/74809468/293e2a75-4777-4cd7-bcf4-c2765789cfa8" width="25%"></center>    
