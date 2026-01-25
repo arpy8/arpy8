@@ -1,5 +1,5 @@
 <img align="center" src="assets/banner.gif" alt="banner">
-<!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p> -->
+
 <table>
     <tr>
         <th width="1000px" align="center">
@@ -20,45 +20,13 @@
                 <a href="https://www.hackerrank.com/arpy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpy8" width="35" /></a>
                 <a href="https://kaggle.com/arpitsengar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpitsengar" width="35" /></a>
                 <a href="https://dev.to/arpy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arpy8" width="35" /></a>
-                <a href="https://twitter.com/arpitwastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitwastaken" width="35" /></a>
-<!--                 <a href="https://instagram.com/4rpi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4rpi8" width="35" /></a> -->
+                <a href="https://twitter.com/arpy8_" target="blank"><img align="center" src="https://github.com/user-attachments/assets/b8b0399d-e676-4337-b7b7-dfecf232b503" alt="arpy8_" width="35" /></a>
             </p>
-<!--             <h3>Languages and Tools:</h3>
-            <p style="text-decoration: none; text-decoration-line: none;"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="selenium" width="35" height="35">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35">
-                <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35">
-                <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35">
-                <img src="./assets/flask-icon.png" alt="flask" height="35">
-                <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="35" height="35">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35">
-                <br>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35">
-                <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35">
-                <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35">
-                <img src="./assets/Adobe_Photoshop.png" alt="adobe-ps" height="35">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="35" height="35">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"> 
-                <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35">
-            </p> -->
         </th>
         <th width="800px">
-<!--             <img src="https://github.com/arpy8/arpy8/assets/74809468/5e2eb800-c714-4ded-9e77-9e4d9d197615"> -->
-<!--             <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=314en4ia7eeyco74hvxp6254hmam&redirect=true"> -->
             <a href="https://github.com/arpy8/PastFm" target="_blank">
                 <img src="https://arpy8-pastfm-backend.hf.space/live">
-<!--                 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"> -->
             </a>
-<!--             <a href="https://www.last.fm/user/arpy8">
-                <img src="https://dynamic-readme-api.vercel.app/spotify_banner" alt="spotify scrobbles banner">
-            </a> -->
         </th>
     </tr>
 </table>
@@ -74,7 +42,6 @@
 </table>
 <br>
 
-<!-- language and tools -->
 <table>
   <tr>
     <td><strong>Frontend</strong></td>
@@ -116,8 +83,7 @@
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus"/></a>
               <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript"/></a>
-<!--       <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java"/></a>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="c"/></a> -->
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="c"/></a>
     </td>
   </tr>
   <tr>
@@ -158,23 +124,12 @@
     </td>
   </tr>
 </table>
-<!-- /language and tools -->
 
-<!-- snake gif -->
 <center>
     <img align="center" alt="snek" src="https://github.com/arpy8/arpy8/blob/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 </center>
-<!-- /snake gif -->
 
-<!-- <table>
-    <tr>
-        <th><img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph"></th>
-        <th><img src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="activity-graph"></th>
-    </tr>
-</table>
- -->
- 
 <img src="profile-3d-contrib/profile-night-green.svg" alt="activity-graph" style="width:100%; display: block;">
 <table style="width:100%; border-collapse: collapse;">
     <tr>
